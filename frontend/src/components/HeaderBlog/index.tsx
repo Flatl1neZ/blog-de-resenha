@@ -4,6 +4,13 @@ import "./styles.css";
 function HeaderBlog() {
   return (
     <>
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" />
+      <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap"
+        rel="stylesheet"
+      />
+
       <header id="topo">
         <section className="container">
           <div className="logo">

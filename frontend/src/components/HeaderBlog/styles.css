@@ -1,7 +1,7 @@
 header {
   color: rgb(61 214 230);
   font-size: 23px;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 #topo {
@@ -24,7 +24,7 @@ header {
 
 .container {
   position: relative;
-  max-width: 1500px;
+  max-width: 1700px;
   padding: 0 25px;
   margin: auto;
 }
@@ -34,7 +34,7 @@ header {
   display: inline-block;
   transition: all 0.5s;
   padding-top: 215px;
-  margin-bottom: 70px;
+  margin-bottom: 45px;
 }
 
 a {
